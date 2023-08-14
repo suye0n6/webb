@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(186, 211, 240);
+}
+
+.p {
+
+    margin-left : 200px;
+    bottom : 430px;
+    position: absolute;
+    font-size : 2.6em;
+    color : #FFF;
+    
+}
+.half_background {
+    background: linear-gradient(to top, rgb(24, 42, 141) 50%, transparent 50%);
+}
+
+.imgg {
+    height: 100vh;
+    width: 300vh;
+    margin-left : 600px;
+    top : 0px;
+}
